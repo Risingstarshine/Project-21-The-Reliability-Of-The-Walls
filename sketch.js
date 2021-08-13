@@ -6,7 +6,7 @@ var wall;
 var lbullet, bulletRightEdge;
 var wallLeftEdge, lwall;
 var Lbullet, Lwall;
-c
+
 
 
 
